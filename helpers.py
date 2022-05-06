@@ -212,13 +212,15 @@ def postprocess_qa_predictions(examples,
                             or end_index >= len(offset_mapping)
                             or offset_mapping[start_index] is None
                             or offset_mapping[end_index] is None
+                            or not len(offset_mapping[start_index])
+                            or not len(offset_mapping[end_index])
                     ):
                         continue
                     # Don't consider answers with a length that is either < 0 or > max_answer_length.
                     if end_index < start_index or \
                             end_index - start_index + 1 > QA_MAX_ANSWER_LENGTH:
                         continue
-
+                    
                     prelim_predictions.append(
                         {
                             "offsets": (offset_mapping[start_index][0],
