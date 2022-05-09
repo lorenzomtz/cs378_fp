@@ -1,0 +1,108 @@
+{
+    "id": "56d6017d1c85041400946ec1",
+    "title": "Super_Bowl_50",
+    "context": "The Panthers finished the regular season with a 15\u20131 record, and quarterback Cam Newton was named the NFL Most Valuable Player (MVP). They defeated the Arizona Cardinals 49\u201315 in the NFC Championship Game and advanced to their second Super Bowl appearance since the franchise was founded in 1995. The Broncos finished the regular season with a 12\u20134 record, and denied the New England Patriots a chance to defend their title from Super Bowl XLIX by defeating them 20\u201318 in the AFC Championship Game. They joined the Patriots, Dallas Cowboys, and Pittsburgh Steelers as one of four teams that have made eight appearances in the Super Bowl.",
+    "question": "Who did the Broncos beat in the 2015 AFC Championship game?",
+    "answers": {
+        "text": [
+            "New England Patriots",
+            "the New England Patriots",
+            "New England Patriots"
+        ],
+        "answer_start": [
+            372,
+            368,
+            372
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946ec2",
+    "title": "Super_Bowl_50",
+    "context": "The Panthers finished the regular season with a 15\u20131 record, and quarterback Cam Newton was named the NFL Most Valuable Player (MVP). They defeated the Arizona Cardinals 49\u201315 in the NFC Championship Game and advanced to their second Super Bowl appearance since the franchise was founded in 1995. The Broncos finished the regular season with a 12\u20134 record, and denied the New England Patriots a chance to defend their title from Super Bowl XLIX by defeating them 20\u201318 in the AFC Championship Game. They joined the Patriots, Dallas Cowboys, and Pittsburgh Steelers as one of four teams that have made eight appearances in the Super Bowl.",
+    "question": "Who did the Denver Broncos deny in the 2015 AFC Championship game?",
+    "answers": {
+        "text": [
+            "New England Patriots",
+            "the New England Patriots",
+            "New England Patriots"
+        ],
+        "answer_start": [
+            372,
+            368,
+            372
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946ec3",
+    "title": "Super_Bowl_50",
+    "context": "The Panthers finished the regular season with a 15\u20131 record, and quarterback Cam Newton was named the NFL Most Valuable Player (MVP). They defeated the Arizona Cardinals 49\u201315 in the NFC Championship Game and advanced to their second Super Bowl appearance since the franchise was founded in 1995. The Broncos finished the regular season with a 12\u20134 record, and denied the New England Patriots a chance to defend their title from Super Bowl XLIX by defeating them 20\u201318 in the AFC Championship Game. They joined the Patriots, Dallas Cowboys, and Pittsburgh Steelers as one of four teams that have made eight appearances in the Super Bowl.",
+    "question": "Which team did Denver beat in the 2015 AFC Championship game?",
+    "answers": {
+        "text": [
+            "New England Patriots",
+            "the New England Patriots",
+            "New England Patriots"
+        ],
+        "answer_start": [
+            372,
+            368,
+            372
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946ec4",
+    "title": "Super_Bowl_50",
+    "context": "The Panthers finished the regular season with a 15\u20131 record, and quarterback Cam Newton was named the NFL Most Valuable Player (MVP). They defeated the Arizona Cardinals 49\u201315 in the NFC Championship Game and advanced to their second Super Bowl appearance since the franchise was founded in 1995. The Broncos finished the regular season with a 12\u20134 record, and denied the New England Patriots a chance to defend their title from Super Bowl XLIX by defeating them 20\u201318 in the AFC Championship Game. They joined the Patriots, Dallas Cowboys, and Pittsburgh Steelers as one of four teams that have made eight appearances in the Super Bowl.",
+    "question": "Which team did Denver beat to advance to the Super Bowl?",
+    "answers": {
+        "text": [
+            "New England Patriots",
+            "the New England Patriots",
+            "New England Patriots"
+        ],
+        "answer_start": [
+            372,
+            368,
+            372
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946ebe",
+    "title": "Super_Bowl_50",
+    "context": "The Panthers finished the regular season with a 15\u20131 record, and quarterback Cam Newton was named the NFL Most Valuable Player (MVP). They defeated the Arizona Cardinals 49\u201315 in the NFC Championship Game and advanced to their second Super Bowl appearance since the franchise was founded in 1995. The Broncos finished the regular season with a 12\u20134 record, and denied the New England Patriots a chance to defend their title from Super Bowl XLIX by defeating them 20\u201318 in the AFC Championship Game. They joined the Patriots, Dallas Cowboys, and Pittsburgh Steelers as one of four teams that have made eight appearances in the Super Bowl.",
+    "question": "Who was the Most Valuable Player for the 2015 NFL season?",
+    "answers": {
+        "text": [
+            "Cam Newton",
+            "Cam Newton",
+            "Cam Newton"
+        ],
+        "answer_start": [
+            77,
+            77,
+            77
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946ebf",
+    "title": "Super_Bowl_50",
+    "context": "The Panthers finished the regular season with a 15\u20131 record, and quarterback Cam Newton was named the NFL Most Valuable Player (MVP). They defeated the Arizona Cardinals 49\u201315 in the NFC Championship Game and advanced to their second Super Bowl appearance since the franchise was founded in 1995. The Broncos finished the regular season with a 12\u20134 record, and denied the New England Patriots a chance to defend their title from Super Bowl XLIX by defeating them 20\u201318 in the AFC Championship Game. They joined the Patriots, Dallas Cowboys, and Pittsburgh Steelers as one of four teams that have made eight appearances in the Super Bowl.",
+    "question": "What the name of the person that was the Most Valuable Player for the 2015 NFL season?",
+    "answers": {
+        "text": [
+            "Cam Newton",
+            "Cam Newton",
+            "Cam Newton"
+        ],
+        "answer_start": [
+            77,
+            77,
+            77
+        ]
+    }
+}

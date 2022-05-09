@@ -1,2 +1,5 @@
 *.pyc
 output/
+train-v2.0.json
+trained_*/
+eval_*/
