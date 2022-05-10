@@ -106,3 +106,197 @@
         ]
     }
 }
+{
+    "id": "56d6017d1c85041400946eb1",
+    "title": "Immune_system",
+    "context": "The immune system is a system of many biological structures and processes within an organism that protects against disease. To function properly, an immune system must detect a wide variety of agents, known as pathogens, from viruses to parasitic worms, and distinguish them from the organism's own healthy tissue. In many species, the immune system can be classified into subsystems, such as the innate immune system versus the adaptive immune system, or humoral immunity versus cell-mediated immunity. In humans, the blood–brain barrier, blood–cerebrospinal fluid barrier, and similar fluid–brain barriers separate the peripheral immune system from the neuroimmune system which protects the brain.",
+    "question": "What does the immune system protect against?",
+    "answers": {
+        "text": [
+            "a wide variety of agents, known as pathogens, from viruses to parasitic worms",
+            "disease",
+            "against disease"
+        ],
+        "answer_start": [
+            175,
+            115,
+            107
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946eb2",
+    "title": "Immune_system",
+    "context": "The immune system is a system of many biological structures and processes within an organism that protects against disease. To function properly, an immune system must detect a wide variety of agents, known as pathogens, from viruses to parasitic worms, and distinguish them from the organism's own healthy tissue. In many species, the immune system can be classified into subsystems, such as the innate immune system versus the adaptive immune system, or humoral immunity versus cell-mediated immunity. In humans, the blood–brain barrier, blood–cerebrospinal fluid barrier, and similar fluid–brain barriers separate the peripheral immune system from the neuroimmune system which protects the brain.",
+    "question": "What is the immune system trying to defend against?",
+    "answers": {
+        "text": [
+            "a wide variety of agents, known as pathogens, from viruses to parasitic worms",
+            "disease",
+            "against disease"
+        ],
+        "answer_start": [
+            175,
+            115,
+            107
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946eb3",
+    "title": "Immune_system",
+    "context": "The immune system is a system of many biological structures and processes within an organism that protects against disease. To function properly, an immune system must detect a wide variety of agents, known as pathogens, from viruses to parasitic worms, and distinguish them from the organism's own healthy tissue. In many species, the immune system can be classified into subsystems, such as the innate immune system versus the adaptive immune system, or humoral immunity versus cell-mediated immunity. In humans, the blood–brain barrier, blood–cerebrospinal fluid barrier, and similar fluid–brain barriers separate the peripheral immune system from the neuroimmune system which protects the brain.",
+    "question": "Against whom is the immune system protecting us from?",
+    "answers": {
+        "text": [
+            "a wide variety of agents, known as pathogens, from viruses to parasitic worms",
+            "disease",
+            "against disease"
+        ],
+        "answer_start": [
+            175,
+            115,
+            107
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946eb4",
+    "title": "Immune_system",
+    "context": "The immune system is a system of many biological structures and processes within an organism that protects against disease. To function properly, an immune system must detect a wide variety of agents, known as pathogens, from viruses to parasitic worms, and distinguish them from the organism's own healthy tissue. In many species, the immune system can be classified into subsystems, such as the innate immune system versus the adaptive immune system, or humoral immunity versus cell-mediated immunity. In humans, the blood–brain barrier, blood–cerebrospinal fluid barrier, and similar fluid–brain barriers separate the peripheral immune system from the neuroimmune system which protects the brain.",
+    "question": "What does the immune system protect?",
+    "answers": {
+        "text": [
+            "an organism",
+            "organism",
+            "the organism's"
+        ],
+        "answer_start": [
+            81,
+            84,
+            280
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946eb5",
+    "title": "Immune_system",
+    "context": "The immune system is a system of many biological structures and processes within an organism that protects against disease. To function properly, an immune system must detect a wide variety of agents, known as pathogens, from viruses to parasitic worms, and distinguish them from the organism's own healthy tissue. In many species, the immune system can be classified into subsystems, such as the innate immune system versus the adaptive immune system, or humoral immunity versus cell-mediated immunity. In humans, the blood–brain barrier, blood–cerebrospinal fluid barrier, and similar fluid–brain barriers separate the peripheral immune system from the neuroimmune system which protects the brain.",
+    "question": "The immune system protects what from disease?",
+    "answers": {
+        "text": [
+            "an organism",
+            "organism",
+            "the organism's"
+        ],
+        "answer_start": [
+            81,
+            84,
+            280
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946eb6",
+    "title": "Fresno,_California",
+    "context": "Before World War II, Fresno had many ethnic neighborhoods, including Little Armenia, German Town, Little Italy, and Chinatown. In 1940, the Census Bureau reported Fresno's population as 94.0% white, 3.3% black and 2.7% Asian. (Incongruously, Chinatown was primarily a Japanese neighborhood and today Japanese-American businesses still remain). During 1942, Pinedale, in what is now North Fresno, was the site of the Pinedale Assembly Center, an interim facility for the relocation of Fresno area Japanese Americans to internment camps. The Fresno Fairgrounds was also utilized as an assembly center.",
+    "question": "In 1942, what was North Fresno previously called?",
+    "answers": {
+        "text": [
+            "Pinedale",
+            "Pinedale",
+            "Pinedale"
+        ],
+        "answer_start": [
+            357,
+            416,
+            416
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946eb7",
+    "title": "Fresno,_California",
+    "context": "Before World War II, Fresno had many ethnic neighborhoods, including Little Armenia, German Town, Little Italy, and Chinatown. In 1940, the Census Bureau reported Fresno's population as 94.0% white, 3.3% black and 2.7% Asian. (Incongruously, Chinatown was primarily a Japanese neighborhood and today Japanese-American businesses still remain). During 1942, Pinedale, in what is now North Fresno, was the site of the Pinedale Assembly Center, an interim facility for the relocation of Fresno area Japanese Americans to internment camps. The Fresno Fairgrounds was also utilized as an assembly center.",
+    "question": "What was North Fresno previously called?",
+    "answers": {
+        "text": [
+            "Pinedale",
+            "Pinedale",
+            "Pinedale"
+        ],
+        "answer_start": [
+            357,
+            416,
+            416
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946eb8",
+    "title": "Fresno,_California",
+    "context": "Before World War II, Fresno had many ethnic neighborhoods, including Little Armenia, German Town, Little Italy, and Chinatown. In 1940, the Census Bureau reported Fresno's population as 94.0% white, 3.3% black and 2.7% Asian. (Incongruously, Chinatown was primarily a Japanese neighborhood and today Japanese-American businesses still remain). During 1942, Pinedale, in what is now North Fresno, was the site of the Pinedale Assembly Center, an interim facility for the relocation of Fresno area Japanese Americans to internment camps. The Fresno Fairgrounds was also utilized as an assembly center.",
+    "question": "What is Pinedale now known as?",
+    "answers": {
+        "text": [
+            "North Fresno",
+            "North Fresno",
+            "North Fresno"
+        ],
+        "answer_start": [
+            382,
+            382,
+            382
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946eb9",
+    "title": "Fresno,_California",
+    "context": "Before World War II, Fresno had many ethnic neighborhoods, including Little Armenia, German Town, Little Italy, and Chinatown. In 1940, the Census Bureau reported Fresno's population as 94.0% white, 3.3% black and 2.7% Asian. (Incongruously, Chinatown was primarily a Japanese neighborhood and today Japanese-American businesses still remain). During 1942, Pinedale, in what is now North Fresno, was the site of the Pinedale Assembly Center, an interim facility for the relocation of Fresno area Japanese Americans to internment camps. The Fresno Fairgrounds was also utilized as an assembly center.",
+    "question": "What is Pinedale now called?",
+    "answers": {
+        "text": [
+            "North Fresno",
+            "North Fresno",
+            "North Fresno"
+        ],
+        "answer_start": [
+            382,
+            382,
+            382
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946ee0",
+    "title": "Immune_system",
+    "context": "The immune system is a system of many biological structures and processes within an organism that protects against disease. To function properly, an immune system must detect a wide variety of agents, known as pathogens, from viruses to parasitic worms, and distinguish them from the organism's own healthy tissue. In many species, the immune system can be classified into subsystems, such as the innate immune system versus the adaptive immune system, or humoral immunity versus cell-mediated immunity. In humans, the blood–brain barrier, blood–cerebrospinal fluid barrier, and similar fluid–brain barriers separate the peripheral immune system from the neuroimmune system which protects the brain.",
+    "question": "What is an example of a pathogen?",
+    "answers": {
+        "text": [
+            "viruses",
+            "parasitic worms"
+        ],
+        "answer_start": [
+            226,
+            237
+        ]
+    }
+}
+{
+    "id": "56d6017d1c85041400946ee1",
+    "title": "Immune_system",
+    "context": "The immune system is a system of many biological structures and processes within an organism that protects against disease. To function properly, an immune system must detect a wide variety of agents, known as pathogens, from viruses to parasitic worms, and distinguish them from the organism's own healthy tissue. In many species, the immune system can be classified into subsystems, such as the innate immune system versus the adaptive immune system, or humoral immunity versus cell-mediated immunity. In humans, the blood–brain barrier, blood–cerebrospinal fluid barrier, and similar fluid–brain barriers separate the peripheral immune system from the neuroimmune system which protects the brain.",
+    "question": "Viruses are an example of what?",
+    "answers": {
+        "text": [
+            "pathogens",
+            "pathogens"
+        ],
+        "answer_start": [
+            210,
+            210
+        ]
+    }
+}
